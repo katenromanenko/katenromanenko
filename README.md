@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @katenromanenko
 - 👀 I am interesting in developing mobile applications in Java for Android
 - 🌱 I’m currently learning 
-🏫 at the Belarusian State University
-🎓 at the Faculty of Mechanics and Mathematics
-📱 majoring in mathematics and information Technology (mathematical and software for mobile devices)
+- 🏫 at the Belarusian State University
+- 🎓 at the Faculty of Mechanics and Mathematics
+- 📱 majoring in mathematics and information Technology (mathematical and software for mobile devices)
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me mmf.romanenkEY@bsu.by
 
