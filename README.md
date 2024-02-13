@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @katenromanenko
-- 👀 I am interesting in developing mobile applications in Kotlin for Android
-- 🌱 I’m currently learning 
-- 🏫 at the Belarusian State University
-- 🎓 at the Faculty of Mechanics and Mathematics
-- 📱 majoring in mathematics and information Technology (mathematical and software for mobile devices)
-- 💞️ I’m looking to collaborate.
-- 📫 How to reach me mmf.romanenkEY@bsu.by
+👋 Hello, I'm @katenromanenko!
+
+🚀 Enthusiastic about sculpting innovative mobile applications using Kotlin for Android.
+
+🌱 Currently delving into the intricacies of mobile development.
+
+🏫 Proud student at Belarusian State University, where I navigate the exciting challenges within the Faculty of Mechanics and Mathematics.
+
+🎓 Specializing in Mathematical and Software Support for Mobile Devices, blending the beauty of mathematics with the power of software solutions.
+
+💞️ Keen to collaborate and connect with fellow enthusiasts in the captivating world of mobile app development.
+
+📫 How to reach me mmf.romanenkEY@bsu.by
 
 <!---
 katenromanenko/katenromanenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
