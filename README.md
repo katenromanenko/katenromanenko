@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katenromanenko
-- 👀 I am interesting in developing mobile applications in Java for Android
+- 👀 I am interesting in developing mobile applications in Kotlin for Android
 - 🌱 I’m currently learning 
 - 🏫 at the Belarusian State University
 - 🎓 at the Faculty of Mechanics and Mathematics
